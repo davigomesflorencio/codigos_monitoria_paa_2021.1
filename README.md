@@ -12,9 +12,9 @@
 
 > > Questão1 : Programação Dinâmica - Combinação (n,k)
 
-> > Questão1 : Programação Dinâmica - Problema do Troco
+> > Questão6 : Programação Dinâmica - Problema do Troco
 
-> > Questão1 : Programação Dinâmica - Problema da Mochila 01
+> > Questão7 : Programação Dinâmica - Problema da Mochila 01
 
 
 > LISTA 04
