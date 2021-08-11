@@ -31,4 +31,13 @@
 
 > > Questão9 : Algoritmos Gulosos - Problema dos licenças e fatores
 
+> LISTA 05
+
+> > Questão5 : Algoritmos em Grafos - Detecta Ciclo
+
+> > Questão6 : Algoritmos em Grafos - Determinar se um grafo é bipartido.
+
+> > Questão7 : Algoritmos em Grafos - Calculo do diâmetro de um grafo
+
+> > Questão8 : Algoritmos em Grafos - Calculo da distância de um vértice v aos demais vértices de um grafo
 
